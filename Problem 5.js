@@ -8,3 +8,5 @@ function removeDuplicates(arr) {
   }
   return unique;
 }
+// console.log(removeDuplicates([1, 2, 2, 3, 4, 4]));
+// console.log(removeDuplicates([5, 5, 6, 7, 7]));
